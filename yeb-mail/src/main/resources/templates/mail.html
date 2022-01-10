@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to the family!</title>
+</head>
+<body>
+    Welcome to our organization, <span th:text="${name}"></span>. The information that you will
+    need is listed below:
+    <table border="1">
+        <tr>
+            <td>Name</td>
+            <td th:text="${name}"></td>
+        </tr>
+        <tr>
+            <td>Position</td>
+            <td th:text="${posName}"></td>
+        </tr>
+        <tr>
+            <td>Job level</td>
+            <td th:text="${jobLevelName}"></td>
+        </tr>
+        <tr>
+            <td>Department</td>
+            <td th:text="${depName}"></td>
+        </tr>
+    </table>
+    <p>
+        The tip that I would like to bring to you is simple - stay HYDRATED! Hope you enjoy your
+        day and have a promising future!
+    </p>
+</body>
+</html>
