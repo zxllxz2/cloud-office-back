@@ -27,5 +27,8 @@ After you get the token, go to the 'Authorize' section in the upper left corner.
 
 Now, you are free to test any APIs listed here!
 
+## Thanks
+Appreciate the channel "以代码为酒解忧愁" in Bilibili for helping me finish this project!
+
 
 
