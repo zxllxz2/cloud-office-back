@@ -4,7 +4,7 @@ The Cloud Office Platform is a staff admin system with Role-Based Access Control
 ## Tech stack
 Spring Boot, Spring Security, JWT, Swagger2, MyBatis-Plus, MySQL, Redis, RabbitMQ, WebSocket, EasyPoi...
 
-## Getting Start
+## Getting start
 There are two main modules in this project - the server module, which contains most of the functionalities, and the mail module, which contains the APIs to send emails. To get start, simply run the YebApplication. If you want the function of sending emails automatically to new employees, you should run the MailApplication simultaneously.
 
 ## API documentatiom
