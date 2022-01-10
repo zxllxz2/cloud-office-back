@@ -8,8 +8,8 @@ Spring Boot, Spring Security, JWT, Swagger2, MyBatis-Plus, MySQL, Redis, RabbitM
 There are two main modules in this project - the server module, which contains most of the functionalities, and the mail module, which contains the APIs to send emails. To get start, simply run the YebApplication. If you want the function of sending emails automatically to new employees, you should run the MailApplication simultaneously.
 
 ## API documentatiom
-This project uses Swagger2 to generate the API documentation. After running the YebApplication, you can go to localhost:8081/doc.html to check the documentation.
-(You may need to enter localhost:8081/doc.html?cache=1&lang=en for English website)
+This project uses Swagger2 to generate the API documentation. After running the YebApplication, you can go to _**localhost:8081/doc.html**_ to check the documentation.
+(You may need to enter _**localhost:8081/doc.html?cache=1&lang=en**_ for English website)
 
 ![image](https://user-images.githubusercontent.com/56448228/148741966-8cf9b071-39cf-49d7-ab04-3db6ae7a8b57.png)
 
