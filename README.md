@@ -1,5 +1,5 @@
 # Cloud Office Platform
-The Cloud Office Platform is a staff admin system with Role-Based Access Control. Here is the website back-end APIs.
+The Cloud Office Platform is a full-stack project of an employee management platform with Role-Based Access Control. Here is the website back-end module.
 
 ## Tech stack
 Spring Boot, Spring Security, JWT, Swagger2, MyBatis-Plus, MySQL, Redis, RabbitMQ, WebSocket, EasyPoi...
